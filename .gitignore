@@ -1,0 +1,5 @@
+# arquivos de trabalho (não fazem parte do site)
+*.docx
+~$*
+Thumbs.db
+.DS_Store
